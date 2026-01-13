@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="IMS.Common/IMS.Common.csproj" />
+  <Project Path="IMS.Data/IMS.Data.csproj" />
+  <Project Path="IMS.Services/IMS.Services.csproj" />
+  <Project Path="IMS.WebAPI.Tests/IMS.WebAPI.Tests.csproj" Id="faad02c5-0736-4dfa-8292-364f573eccf3" />
+  <Project Path="IMS.WebAPI/IMS.WebAPI.csproj" />
+</Solution>
