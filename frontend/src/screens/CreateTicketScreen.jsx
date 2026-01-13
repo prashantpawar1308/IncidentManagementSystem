@@ -130,7 +130,7 @@ export default function CreateTicketScreen() {
 
         <div className="form-actions full">
           <button type="submit" disabled={isSubmitting} className="submit-btn">
-            {isSubmitting ? 'Creating Ticket...' : 'Create Ticket'}
+            {isSubmitting ? 'Creating Incident...' : 'Save'}
           </button>
         </div>
       </form>

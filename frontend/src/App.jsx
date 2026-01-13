@@ -22,7 +22,7 @@ function AppContent() {
             <Link
               key={route.path}
               to={route.path}
-              className={`nav-link ${['Create Ticket','Grid'].includes(route.title) ? 'primary' : ''}`}
+              className={`nav-link ${['Create Incident','Grid'].includes(route.title) ? 'primary' : ''}`}
             >
               {route.title}
             </Link>

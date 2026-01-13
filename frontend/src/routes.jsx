@@ -9,8 +9,8 @@ export const routes = [
     title: 'Grid'
   },
   {
-    path: '/create-ticket',
+    path: '/create-incident',
     element: <CreateTicketScreen />,
-    title: 'Create Ticket'
+    title: 'Create Incident'
   }
 ]
